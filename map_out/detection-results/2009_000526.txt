@@ -1,0 +1,5 @@
+person 0.0013 18 205 32 219
+bottle 0.0031 126 382 289 502
+pottedplant 0.9746 4 32 343 461
+pottedplant 0.0013 61 88 286 409
+diningtable 0.0585 10 70 332 481
